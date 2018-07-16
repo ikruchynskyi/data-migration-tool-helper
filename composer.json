@@ -1,7 +1,7 @@
 {
     "name": "ikruchynskyi/data-migration-tool-helper",
     "description": "Migration Tool Helper",
-    "version": "1.0.0-alpha",
+    "version": "1.0.0",
     "require": {
         "symfony/console": "~2.3, !=2.7.0",
         "magento/framework": "~101.0.0",
